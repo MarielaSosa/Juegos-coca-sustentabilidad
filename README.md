@@ -1,5 +1,5 @@
 # Juegos Coca Cola
-Con el equipo del Germinando desarrollamos unos juego interactivos para el stand de Coca Cola en el Fan Fest - Juegos Sudamericanos (Septiembre 2026- Rosario )
+Con el equipo de Pakova desarrollamos unos juego interactivos para el stand de Coca Cola en el Fan Fest - Juegos Sudamericanos (Septiembre 2026- Rosario )
 
 
 ## 🛠Stack Tecnológico
