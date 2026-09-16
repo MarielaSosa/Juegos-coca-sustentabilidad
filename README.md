@@ -17,7 +17,7 @@ Java Script
 |Gonzalo Bustos|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzabustos20/)|Github| 
 |Melina Garay|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melina-garay-/)|Github| 
 |Mariela Sosa |[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariela-sosa/)|GitHub|
-|Tamara Ibarra|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/tamara-ibarra-21b331428)]|GitHub|
+|Tamara Ibarra|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/tamara-ibarra-21b331428/)]|GitHub|
 
 
 
