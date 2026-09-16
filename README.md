@@ -2,7 +2,7 @@
 Con el equipo del Germinando desarrollamos unos juego interactivos para el stand de Coca Cola en el Fan Fest - Juegos Sudamericanos (Septiembre 2026- Rosario )
 
 
-## 🛠Skills
+## 🛠Stack Tecnológico
 ![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light)
 Java Script
 
