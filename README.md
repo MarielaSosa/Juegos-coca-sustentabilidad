@@ -1,5 +1,20 @@
-# Juegos Coca Cola
+# Juegos Coca-Cola — Fan Fest Juegos Sudamericanos
 Con el equipo de Pakova desarrollamos unos juego interactivos para el stand de Coca Cola en el Fan Fest - Juegos Sudamericanos (Septiembre 2026- Rosario )
+
+## 🖼️ Demo / Capturas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Franco2215-rc/Imagenes-juego-coca.cola/main/mision-reciclaje-1.jpeg" width="150" alt="Misión Reciclaje">
+  <img src="https://raw.githubusercontent.com/Franco2215-rc/Imagenes-juego-coca.cola/main/memotest-1.jpeg" width="150" alt="Memotest">
+  <img src="https://raw.githubusercontent.com/Franco2215-rc/Imagenes-juego-coca.cola/main/ruleta-sustentable-1.jpeg" width="150" alt="Ruleta Sustentable">
+  <img src="https://raw.githubusercontent.com/Franco2215-rc/Imagenes-juego-coca.cola/main/une-con-flechas-1.jpeg" width="150" alt="Une con Flechas">
+</p>
+
+
+
+
+
+
 
 
 ## 📝 Lenguajes
@@ -21,6 +36,10 @@ Con el equipo de Pakova desarrollamos unos juego interactivos para el stand de C
 ## 🎨 Estilos y Diseño
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=light)
 
+## 📱 Plataformas
+- Navegadores Web
+- Android (APK)
+
 
 ## Integrantes
 
@@ -35,10 +54,7 @@ Con el equipo de Pakova desarrollamos unos juego interactivos para el stand de C
 |Mariela Sosa |[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariela-sosa/)|GitHub|
 |Tamara Ibarra|[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-ibarra-21b331428/)|GitHub|
 
-## 📱 Plataformas
 
-- Navegadores Web
-- Android (APK)
 
 
 
@@ -46,3 +62,11 @@ Con el equipo de Pakova desarrollamos unos juego interactivos para el stand de C
 ## 📲 Instalación
 
 La guía de instalación está disponible en este [documento](https://docs.google.com/document/d/1C7Pxfb2fo2xuDL5BdTbpU1DX2q5SLlGu/edit?usp=sharing).
+
+## 📄 Licencia y Derechos
+
+© 2026 Pakova
+
+Este proyecto fue desarrollado en el marco de las actividades de [Pakova](https://www.pakova.org/), asociación civil sin fines de lucro.
+
+Contenido de marca (Coca-Cola) utilizado en el marco del evento Fan Fest — Juegos Sudamericanos 2026, con fines de exhibición.
